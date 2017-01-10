@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{33AD0EE8-D99B-4E14-8CD9-3F56ABEF97A2}") = "daily-sms-reminders", "daily-sms-reminders\daily-sms-reminders.funproj", "{A45FF59E-A7A1-4644-AE6A-982CF2795F7D}"
+Project("{33AD0EE8-D99B-4E14-8CD9-3F56ABEF97A2}") = "DailySmsReminders", "daily-sms-reminders\DailySmsReminders.funproj", "{A45FF59E-A7A1-4644-AE6A-982CF2795F7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
