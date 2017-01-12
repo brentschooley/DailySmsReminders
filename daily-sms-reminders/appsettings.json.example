@@ -5,6 +5,7 @@
     "AzureWebJobsDashboard": "",
     "TwilioAccountSid": "",
     "TwilioAuthToken": "",
-    "TwilioPhoneNumber":  ""
+    "TwilioPhoneNumber": "",
+    "ReminderMessage": ""
   }
 }
